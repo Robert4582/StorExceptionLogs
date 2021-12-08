@@ -1,0 +1,16 @@
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\bin\Debug\net5.0\ExceptionLogs.exe
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\bin\Debug\net5.0\ExceptionLogs.deps.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\bin\Debug\net5.0\ExceptionLogs.runtimeconfig.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\bin\Debug\net5.0\ExceptionLogs.runtimeconfig.dev.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\bin\Debug\net5.0\ExceptionLogs.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\bin\Debug\net5.0\ref\ExceptionLogs.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\bin\Debug\net5.0\ExceptionLogs.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\obj\Debug\net5.0\ExceptionLogs.csproj.AssemblyReference.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\obj\Debug\net5.0\ExceptionLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\obj\Debug\net5.0\ExceptionLogs.AssemblyInfoInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\obj\Debug\net5.0\ExceptionLogs.AssemblyInfo.cs
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\obj\Debug\net5.0\ExceptionLogs.csproj.CoreCompileInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\obj\Debug\net5.0\ExceptionLogs.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\obj\Debug\net5.0\ref\ExceptionLogs.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\obj\Debug\net5.0\ExceptionLogs.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\ExceptionLogs\ExceptionLogs\obj\Debug\net5.0\ExceptionLogs.genruntimeconfig.cache
